@@ -506,9 +506,9 @@ section {
 }
 
 /* Darker background on mouse-over */
-.btn:hover {
-  /* background-color: lightblue; */
-}
+/* .btn:hover {
+  background-color: lightblue;
+} */
 
 /*--------------------------------------------------------------
 # Portfolio
